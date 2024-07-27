@@ -65,10 +65,11 @@ The data ingestion process involves connecting the on-premise SQL Server databas
 5. **Monitor and Manage**: Track progress, performance, and handle issues using Azure Data Factory's monitoring features.
 
 <p align="center">
-  <img width="900" src="https://github.com/user-attachments/assets/b531c931-1db3-4e8c-ad45-bd50d1be50ab">
+  <img width="900" src="https://github.com/user-attachments/assets/531b20cc-a7c4-426e-a3c3-ad266079d13d">
 </p>
 
 ## Data Storage
+
 
 Data is stored in Azure Data Lake Storage Gen2, organized into three layers:
 
@@ -93,7 +94,7 @@ Data processing involves transforming raw data into a refined format:
 ## Data Pipeline
 
 <p align="center">
-  <img width="900" src="https://github.com/user-attachments/assets/3c4d7f3e-205b-46dd-b419-8bfea7a94735">
+  <img width="900" src="https://github.com/user-attachments/assets/2595cf27-ea1d-4b1d-878a-54f81b970800">
 </p>
 
 ## Data Visualization
